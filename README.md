@@ -17,7 +17,9 @@ HabitPulse is a simple habit tracker web app that helps users track daily habits
 * Track streaks, completed, and missed counts
 * Data persistence using localStorage
 * Clean and responsive UI
-* (In progress) Yearly tracking with heatmap
+* Edit and delete habits
+* Full yearly heatmap visualization
+* Better UI/UX enhancements
 
 ---
 
@@ -48,12 +50,41 @@ I focused on understanding the logic and implementation while building it.
 
 ## 🚀 Future Improvements
 
-* Edit and delete habits
-* Full yearly heatmap visualization
-* Better UI/UX enhancements
-* Mobile responsiveness improvements
+### 🎯 Core Enhancements
 
----
+* Prevent duplicate habits
+* Restrict multiple updates per day (daily lock system)
+
+### 🎨 UI/UX Improvements
+
+* Dark / Light mode toggle
+* Improved mobile responsiveness
+* Better animations and transitions
+
+### 📊 Data & Visualization
+
+* Weekly and monthly progress statistics
+* Progress charts (bar/line graphs)
+
+### 💾 Data Management
+
+* Export habits data (download as JSON)
+* Import habits data (restore from file)
+
+### 🔔 Notifications
+
+* Browser-based reminders using Notification API
+
+### ☁️ Advanced Features (Future Scope)
+
+* User authentication (login/signup)
+* Cloud sync using backend (e.g., Firebase)
+* Multi-device data access
+  
+## 📱 Mobile Compatibility
+
+HabitPulse is fully accessible on smartphones and works seamlessly in mobile browsers.  
+No installation required — just open the live link and start tracking your habits.
 
 ## 📂 How to Run
 
