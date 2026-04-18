@@ -9,6 +9,20 @@ Track your habits. Build consistency.
 HabitPulse is a simple habit tracker web app that helps users track daily habits, maintain streaks, and visualize progress over time.
 
 ---
+## 📂 How to Run
+
+### 🌐 Live Demo
+
+You can access the app here:
+👉 https://priyanshuraj2077.github.io/habitpulse/
+
+### 💻 Run Locally
+
+1. Download or clone the repository
+2. Open `index.html` in your browser
+
+
+---
 
 ## ✨ Features
 
@@ -85,21 +99,6 @@ I focused on understanding the logic and implementation while building it.
 
 HabitPulse is fully accessible on smartphones and works seamlessly in mobile browsers.  
 No installation required — just open the live link and start tracking your habits.
-
-## 📂 How to Run
-
-### 🌐 Live Demo
-
-You can access the app here:
-👉 https://priyanshuraj2077.github.io/habitpulse/
-
-### 💻 Run Locally
-
-1. Download or clone the repository
-2. Open `index.html` in your browser
-
-
----
 
 ## 📌 Status
 
