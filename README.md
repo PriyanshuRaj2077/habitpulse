@@ -57,6 +57,8 @@ I focused on understanding the logic and implementation while building it.
 
 ## 📂 How to Run
 
+you can visit:  https://priyanshuraj2077.github.io/habitpulse/
+or
 1. Download or clone the repository
 2. Open `index.html` in your browser
 
